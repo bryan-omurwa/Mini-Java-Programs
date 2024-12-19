@@ -7,7 +7,8 @@ public class UnmixString {
         // Loop through the string in steps of 2
         for (int i = 0; i < str.length(); i += 2) {
 
-            // If there's an odd number of characters, append the last character
+            // If there's an odd number of characters, append the last character to unmixed,
+            //since it doesn't have a swap character
             if (i == str.length() - 1) {
                 unmixed.append(str.charAt(i));
                 continue;

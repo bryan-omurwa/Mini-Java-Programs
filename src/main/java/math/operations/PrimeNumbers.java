@@ -1,4 +1,4 @@
-package basic.math;
+package math.operations;
 
 import java.util.ArrayList;
 
