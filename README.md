@@ -26,7 +26,7 @@ Welcome to the **Mini Java Programs** repository! This collection contains a var
 
 Each program is stored in its own directory with the following components:
 - **Java File (`.java`)**: The main source code for the program.
-- **README.md**: A detailed description of the program, including its purpose, inputs, outputs, and instructions for execution.
+- **README.md**: A detailed description of each program, including its purpose, inputs, outputs, and instructions for execution.
 
 ---
 
@@ -39,11 +39,11 @@ Each program is stored in its own directory with the following components:
 ### **Running the Programs**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/MiniJavaPrograms.git
+   git clone https://github.com/bryan-omurwa/Mini-Java-Programs.git
    
 2. Navigate to the desired program directory:
    ```bash
-   cd MiniJavaPrograms/Program1
+   cd src\main\java
 
 ---
    
@@ -79,7 +79,7 @@ Here are some references that helped shape this repository:
 
 ## 📜 License
 
-This repository is licensed under the MIT License. See the LICENSE file for details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ### 🌟 Don't forget to give a ⭐ if you find this repository helpful!
 
