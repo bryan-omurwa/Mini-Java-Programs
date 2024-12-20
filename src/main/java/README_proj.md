@@ -30,4 +30,9 @@
     - *Topics*: Loops.
     - *Location*: [Unmix String](string/manipulations/UnmixString.java).
 
+7. **Palindrome Word**
+   - *Description*: Check if a word is a palindrome or not.
+   - *Topics*: Loops, Logic.
+   - *Location*: [Palindrome Word](string/manipulations/PalindromeWord.java)
+
 ... 
