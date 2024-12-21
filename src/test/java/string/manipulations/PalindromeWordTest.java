@@ -6,6 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
 
 public class PalindromeWordTest {
 
+    // Create a new object of PalindromeWord class for the test cases
     PalindromeWord palindromeChecker = new PalindromeWord();
 
     @Test

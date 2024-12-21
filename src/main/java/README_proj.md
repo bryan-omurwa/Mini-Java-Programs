@@ -35,4 +35,9 @@
    - *Topics*: Loops, Logic.
    - *Location*: [Palindrome Word](string/manipulations/PalindromeWord.java)
 
+8. **Calculate Perimeter**
+   - *Description*: Calculate perimeter from the coordinates provided in a 2D array.
+   - *Topics*: Algebra, Arrays, Geometry, Math.
+   - *Location*: [Calculate Perimeter](math/operations/CalculatePerimeter.java)
+
 ... 
