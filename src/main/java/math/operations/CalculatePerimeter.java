@@ -18,7 +18,7 @@ public class CalculatePerimeter {
             // Calculate distance between current and next point. AB = √((x2 – x1)² + (y2 – y1)²).
             double distance = Math.sqrt(Math.pow(next_coordinate[0] - current_coordinate[0], 2) + Math.pow(next_coordinate[1] - current_coordinate[1], 2));
 
-            perimeter += distance;  // Add to the perimeter
+            perimeter += distance;  // Add distance to the perimeter
         }
 
         return perimeter;
