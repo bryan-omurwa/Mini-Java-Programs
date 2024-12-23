@@ -40,4 +40,9 @@
    - *Topics*: Algebra, Arrays, Geometry, Math.
    - *Location*: [Calculate Perimeter](math/operations/CalculatePerimeter.java)
 
+9. **Left Shift Mimic**
+   - *Description*: A recursive function that mimics (without the use of <<) the left shift operator, and returns the result from the two given integers.
+   - *Topics*: Bit-operations, Numbers, Recursion.
+   - *Location*: [Left Shift](math/operations/LeftShift.java)
+
 ... 
