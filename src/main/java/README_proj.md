@@ -45,4 +45,10 @@
    - *Topics*: Bit-operations, Numbers, Recursion.
    - *Location*: [Left Shift](math/operations/LeftShift.java)
 
+10. **Persistence Calculator**
+    - *Description*: AdditivePersistence sums the digits of a number repeatedly until a single-digit number is reached, returning the count of the operations.
+      MultiplicativePersistence multiplies the digits of a number repeatedly until a single-digit number is reached, returning the count of the operations
+    - *Topics*: Math, Loops, Numbers.
+    - *Location*: [Persistence Calculator](math/operations/DigitPersistenceCalculator.java)
+
 ... 

@@ -96,7 +96,6 @@ public class RotateArrayTests {
     public void testNullMatrix() {
         // Arrange
         RotateArray rotate2DArray = new RotateArray();
-        int[][] matrix = null;
 
         // Act and Assert
         Exception exception = assertThrows(IllegalArgumentException.class, () -> rotate2DArray.rotateArray(null));
