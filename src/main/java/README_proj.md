@@ -51,4 +51,10 @@
     - *Topics*: Math, Loops, Numbers.
     - *Location*: [Persistence Calculator](math/operations/DigitPersistenceCalculator.java)
 
+11. **Coder Decoder**
+    - *Description*: Encode function that transforms the input message into an encoded form using the provided map array.
+      Decode function that reverses the encoding process, recovering the original message from its encoded form
+    - *Topics*: Strings, Cryptography, Arrays, Loops.
+    - *Location*: [Coder Decoder](string/manipulations/CoderDecoder.java)
+
 ... 
