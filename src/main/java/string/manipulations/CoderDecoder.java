@@ -3,7 +3,7 @@ package string.manipulations;
 public class CoderDecoder {
 
     // Alphabet map
-    String[] map = {"z", "y", "x", "w", "v", "u", "t", "s", "r", "q", "p", "o", "n", "m", "l", "k", "j", "i", "h", "g", "f", "e", "d", "c", "b", "a"};
+    private final String[] map = {"z", "y", "x", "w", "v", "u", "t", "s", "r", "q", "p", "o", "n", "m", "l", "k", "j", "i", "h", "g", "f", "e", "d", "c", "b", "a"};
 
     // Function to encode the message
     // This method transforms the input message into an encoded form using the provided map array.
@@ -23,7 +23,7 @@ public class CoderDecoder {
     // This method reverses the encoding process, recovering the original message from its encoded form.
     public String decode(String codedMessage) {
         StringBuilder decoded = new StringBuilder();    // StringBuilder is used here for efficient string concatenation during the decoding process.
-        for (char c : codedMessage.toCharArray()) {
+        for (char c : codedMessage.toLowerCase().toCharArray()) {
             if (Character.isLetter(c)) {
                 int index = findIndex(String.valueOf(c));   // Find the index of the character in the map to retrieve the original letter.
                 decoded.append((char) ('a' + index));
