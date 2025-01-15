@@ -57,4 +57,9 @@
     - *Topics*: Strings, Cryptography, Arrays, Loops.
     - *Location*: [Coder Decoder](string/manipulations/CoderDecoder.java)
 
+12. **Url Parameters**
+    - *Description*: A function that takes a URL (string), removes duplicate query parameters and parameters specified within the 2nd argument (which will be an optional array).
+    - *Topics*: Strings, Algorithms, Regex.
+    - *Location*: [UrlParameters](string/manipulations/UrlParameters.java)
+
 ... 
