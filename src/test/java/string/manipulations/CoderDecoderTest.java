@@ -43,7 +43,7 @@ public class CoderDecoderTest {
 
         CoderDecoder decodeMessage = new CoderDecoder(); // Create object
 
-        String encodedMessage = "SVOOL"; // Assuming encoded message is case insensitive
+        String encodedMessage = "SVOOL"; // Assuming encoded message is case-insensitive
         String expectedDecodedMessage = "hello";
         String actualDecodedMessage = decodeMessage.decode(encodedMessage);
         assertEquals(expectedDecodedMessage, actualDecodedMessage);
