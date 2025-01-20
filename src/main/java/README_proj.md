@@ -62,4 +62,8 @@
     - *Topics*: Strings, Algorithms, Regex.
     - *Location*: [UrlParameters](string/manipulations/UrlParameters.java)
 
+13. **Non-consecutive Binary**
+    - *Description*: A function that generates all nonconsecutive binary strings where nonconsecutive is defined as a string where no consecutive ones are present, and where n governs the length of each binary string.
+    - *Topics*: Strings, Loops, Math.
+      - *Location*: [NonConsecutive Binary](string/manipulations/NonConsecutiveBinary.java)
 ... 
