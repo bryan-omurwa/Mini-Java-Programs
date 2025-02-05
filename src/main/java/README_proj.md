@@ -66,4 +66,10 @@
     - *Description*: A function that generates all nonconsecutive binary strings where nonconsecutive is defined as a string where no consecutive ones are present, and where n governs the length of each binary string.
     - *Topics*: Strings, Loops, Math.
       - *Location*: [NonConsecutive Binary](string/manipulations/NonConsecutiveBinary.java)
+
+14. **Sentence Searcher**
+    - *Description*: A function that returns the sentence that contains the word at index n.
+    - *Topics*: Strings, Loops.
+    - *Location*: [Sentence Searcher](string/manipulations/SentenceSearcher.java)
+
 ... 
