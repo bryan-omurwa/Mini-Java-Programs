@@ -72,4 +72,9 @@
     - *Topics*: Strings, Loops.
     - *Location*: [Sentence Searcher](string/manipulations/SentenceSearcher.java)
 
+15. **MiddleSquare PRNG**
+    - *Description*: A program that returns 32-bit pseudo-random numbers using the middle square algorithm.
+    - *Topics*: Numbers, Algorithms, bit-operations.
+    - *Location*: [MiddleSquarePRNG](math/operations/MiddleSquarePRNG.java)
+
 ... 
