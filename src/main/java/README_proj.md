@@ -77,4 +77,8 @@
     - *Topics*: Numbers, Algorithms, bit-operations.
     - *Location*: [MiddleSquarePRNG](math/operations/MiddleSquarePRNG.java)
 
+16. **Dice Roll**
+    - *Description*: A program that accepts two arguments: the number of dice rolled, and the outcome of the roll,  and returns the number of possible combinations that could produce that outcome. The number of dice can vary from 1 to 6.
+    - *Topics*: Numbers, Loops, Math.
+    - *Location*: [DiceRoll](math/operations/DiceRoll.java)
 ... 
