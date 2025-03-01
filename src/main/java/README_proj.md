@@ -82,4 +82,9 @@
     - *Topics*: Numbers, Loops, Math.
     - *Location*: [DiceRoll](math/operations/DiceRoll.java)
 
+17. **Pattern Checker**
+    - *Description*: Here's a Java implementation of the method function based on the observed pattern. Returns true if the number is prime. Returns false if the number is composite but not a multiple of 7. Returns null if the number is a multiple of 7.
+    - *Topics*: Math, Algorithms, Cryptography.
+    - *Location*: [PatternChecker](math/operations/PatternChecker.java)
+
 ... 

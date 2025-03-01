@@ -10,8 +10,8 @@ public class PatternCheckerTest {
         assertEquals(true, PatternChecker.method(2));
         assertEquals(true, PatternChecker.method(3));
         assertEquals(true, PatternChecker.method(5));
-        assertEquals(true, PatternChecker.method(7));
         assertEquals(true, PatternChecker.method(11));
+        assertEquals(true, PatternChecker.method(13));
     }
 
     @Test
