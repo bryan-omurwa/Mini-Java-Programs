@@ -14,12 +14,10 @@ public class PrimeNumbers {
         if (n == 1 || n == 0) {
             return primeNumbers;
         }
+        primeNumbers.add(2);
 
         // Loop through the number to find the prime numbers
-        for (int i = 1; i <= n; i++) {
-            if (i == 2) {
-                primeNumbers.add(i);
-            }
+        for (int i = 2; i <= n; i++) {
             for (int j = 2; j < i; j++) {
                 if (i % j == 0) {
                     break;
